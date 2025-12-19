@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "飛んで",
+  "base_artist": "susumu.",
+  "createdAt": "2025-12-19T09:59:56.690690Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "飛んで",
+      "artist": "susumu.",
+      "has_synced": false,
+      "path": "select/pl_01_飛んで_susumu..txt"
+    }
+  ]
+}
